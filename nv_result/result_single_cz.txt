@@ -1,0 +1,159 @@
+Extracted all features: 
+Printing class statistics
+Counter({'A2': 188, 'B1': 165, 'B2': 81})
+With Word ngrams: 
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.54545455 0.61363636 0.72727273 0.68181818 0.72093023 0.76744186
+ 0.74418605 0.72093023 0.79069767 0.8372093 ]
+0.7149577167019027 0.7047227972816605
+[[  0   0   0   0   0   0]
+ [  0 174  14   0   0   0]
+ [  0  44  94  27   0   0]
+ [  0   1  38  42   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.59090909 0.56818182 0.65909091 0.56818182 0.65116279 0.74418605
+ 0.74418605 0.69767442 0.79069767 0.8372093 ]
+0.6851479915433404 0.6819219752956087
+[[  0   0   0   0   0   0]
+ [  0 153  34   1   0   0]
+ [  0  45  94  26   0   0]
+ [  0   1  30  50   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.56818182 0.70454545 0.70454545 0.68181818 0.69767442 0.69767442
+ 0.79069767 0.74418605 0.81395349 0.86046512]
+0.7263742071881605 0.7222937971948927
+[[  0   0   0   0   0   0]
+ [  0 165  22   1   0   0]
+ [  0  37 100  28   0   0]
+ [  0   0  31  50   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+With POS ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.61363636 0.56818182 0.68181818 0.65909091 0.6744186  0.6744186
+ 0.8372093  0.72093023 0.8372093  0.81395349]
+0.7080866807610994 0.702562014223004
+[[  0   0   0   0   0   0]
+ [  0 160  27   1   0   0]
+ [  0  36 110  19   0   0]
+ [  0   1  43  37   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.47727273 0.5        0.61363636 0.54545455 0.65116279 0.62790698
+ 0.58139535 0.65116279 0.62790698 0.69767442]
+0.5973572938689219 0.5907221810447617
+[[  0   0   0   0   0   0]
+ [  0 144  42   2   0   0]
+ [  0  61  71  33   0   0]
+ [  0   3  34  44   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.52272727 0.52272727 0.59090909 0.59090909 0.65116279 0.58139535
+ 0.6744186  0.65116279 0.6744186  0.6744186 ]
+0.6134249471458775 0.6080811690633297
+[[  0   0   0   0   0   0]
+ [  0 144  39   5   0   0]
+ [  0  56  75  34   0   0]
+ [  0   3  31  47   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+Dep ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.59090909 0.59090909 0.75       0.63636364 0.65116279 0.72093023
+ 0.79069767 0.69767442 0.8372093  0.88372093]
+0.7149577167019028 0.7097116499484751
+[[  0   0   0   0   0   0]
+ [  0 160  28   0   0   0]
+ [  0  35 112  18   0   0]
+ [  0   2  41  38   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.63636364 0.43181818 0.56818182 0.61363636 0.62790698 0.69767442
+ 0.58139535 0.6744186  0.62790698 0.72093023]
+0.6180232558139535 0.614778241056687
+[[  0   0   0   0   0   0]
+ [  0 139  48   1   0   0]
+ [  0  59  80  26   0   0]
+ [  0   4  28  49   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.68181818 0.52272727 0.65909091 0.59090909 0.55813953 0.72093023
+ 0.60465116 0.69767442 0.69767442 0.79069767]
+0.652431289640592 0.6493287856707578
+[[  0   0   0   0   0   0]
+ [  0 145  41   2   0   0]
+ [  0  48  84  33   0   0]
+ [  0   2  25  54   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+Domain features:  
+ ******
+RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)
+[0.56818182 0.63636364 0.65909091 0.54545455 0.62790698 0.69767442
+ 0.72093023 0.72093023 0.72093023 0.76744186]
+0.6664904862579281
+[[160  27   1]
+ [ 43  96  26]
+ [  1  47  33]]
+0.6191819884511441
+LinearSVC(class_weight='balanced', random_state=1234)
+[0.38636364 0.38636364 0.56818182 0.43181818 0.60465116 0.62790698
+ 0.79069767 0.69767442 0.6744186  0.81395349]
+0.5982029598308668
+[[129  58   1]
+ [ 37 125   3]
+ [ 16  60   5]]
+0.47371783548254137
+LogisticRegression(class_weight='balanced', random_state=1234)
+[0.54545455 0.65909091 0.68181818 0.63636364 0.58139535 0.69767442
+ 0.58139535 0.65116279 0.55813953 0.69767442]
+0.6290169133192389
+[[162  23   3]
+ [ 46  56  63]
+ [  1  25  55]]
+0.5923440798566574
+Combined feature rep: wordngrams + domain
+Acc:  0.7058139534883721
+F1:  0.7017952957327495
+Combined feature rep: posngrams + domain
+Acc:  0.6894820295983086
+F1:  0.6881826535123887
+Combined feature rep: depngrams + domain
+Acc:  0.7056553911205073
+F1:  0.6995754394947944

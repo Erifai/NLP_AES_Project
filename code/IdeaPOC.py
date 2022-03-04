@@ -22,6 +22,7 @@ from sklearn.svm import LinearSVC
 from scipy.stats import spearmanr, pearsonr
 import language_tool_python
 #import language_check
+import sys
 
 seed=1234
 
@@ -467,6 +468,9 @@ setting options: pos, dep, domain
 labelascat = true, false (to indicate whether to add label as a categorical feature)
 """
 def do_mega_multilingual_model_all_features(lang1path,lang1,lang2path,lang2,lang3path,lang3,modelas, setting,labelascat):
+   orig_stdout = sys.stdout
+   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multi_'+lang1+'_'+lang2+'_'+lang3+'.txt', 'w')
+   sys.stdout = f
    print("Doing: take all data as if it belongs to one large dataset, and do classification")   
    if not setting == "domain":
       lang1files,lang1features = getLangData(lang1path,setting)
@@ -501,6 +505,8 @@ def do_mega_multilingual_model_all_features(lang1path,lang1,lang2path,lang2,lang
       singleLangClassificationWithoutVectorizer(megadata,megalabels)
    else:
       train_onelang_classification(megalabels,megadata,labelascat,megalangs)
+   sys.stdout = orig_stdout
+   f.close()
 
 """
 this function does cross language evaluation.
@@ -510,6 +516,10 @@ lang codes: de, it, cz (lower case)
 modelas: "class" for classification, "regr" for regression
 """
 def do_cross_lang_all_features(sourcelangdirpath,sourcelang,modelas, targetlangdirpath, targetlang):
+
+   orig_stdout = sys.stdout
+   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_cross_'+sourcelang+'_'+targetlang+'.txt', 'w')
+   sys.stdout = f
    #Read source language data
    sourcelangfiles,sourcelangposngrams = getLangData(sourcelangdirpath, "pos")
    sourcelangfiles,sourcelangdepngrams = getLangData(sourcelangdirpath, "dep")
@@ -545,6 +555,8 @@ def do_cross_lang_all_features(sourcelangdirpath,sourcelang,modelas, targetlangd
       crossLangClassificationWithoutVectorizer(sourcelangdomain,sourcelanglabels,targetlangdomain,targetlanglabels)
    if modelas == "regr":
           print("Did not add for regression yet")
+   sys.stdout = orig_stdout
+   f.close()
  
 """
 this function takes a language data directory path, and lang code, 
@@ -553,6 +565,10 @@ lang codes: de, it, cz (lower case)
 modelas: "class" for classification, "regr" for regression
 """
 def do_single_lang_all_features(langdirpath,lang,modelas):
+    orig_stdout = sys.stdout
+    f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_single_'+lang+'.txt', 'w')
+    sys.stdout = f
+
     langfiles,langwordngrams = getLangData(langdirpath, "word")
     langfiles,langposngrams = getLangData(langdirpath, "pos")
     langfiles,langdepngrams = getLangData(langdirpath, "dep")
@@ -560,7 +576,7 @@ def do_single_lang_all_features(langdirpath,lang,modelas):
        langfiles,langdomain = getScoringFeatures(langdirpath,lang,True)
     else:
        langfiles,langdomain = getScoringFeatures(langdirpath,lang,False)
-    
+
     print("Extracted all features: ")
     langlabels = getcatlist(langfiles)
     langscores = getnumlist(langfiles)
@@ -576,15 +592,15 @@ def do_single_lang_all_features(langdirpath,lang,modelas):
     print(collections.Counter(langlabels))
 
     if modelas == "class":
-       print("With Word ngrams:", "\n", "******") 
+       print("With Word ngrams:", "\n", "******")
        train_onelang_classification(langlabels,langwordngrams)
-       print("With POS ngrams: ", "\n", "******") 
+       print("With POS ngrams: ", "\n", "******")
        train_onelang_classification(langlabels,langposngrams)
-       print("Dep ngrams: ", "\n", "******") 
+       print("Dep ngrams: ", "\n", "******")
        train_onelang_classification(langlabels,langdepngrams)
        print("Domain features: ", "\n", "******")
        singleLangClassificationWithoutVectorizer(langdomain,langlabels)
-          
+
        print("Combined feature rep: wordngrams + domain")
        combine_features(langlabels,langwordngrams,langdomain)
        print("Combined feature rep: posngrams + domain")
@@ -601,15 +617,17 @@ def do_single_lang_all_features(langdirpath,lang,modelas):
        combine_features(delabels,desparse,dedense)
        """
     elif modelas == "regr":
-       print("With Word ngrams:", "\n", "******") 
+       print("With Word ngrams:", "\n", "******")
        train_onelang_regression(langscores,langwordngrams)
-       print("With POS ngrams: ", "\n", "******") 
+       print("With POS ngrams: ", "\n", "******")
        train_onelang_regression(langscores,langposngrams)
-       print("Dep ngrams: ", "\n", "******") 
+       print("Dep ngrams: ", "\n", "******")
        train_onelang_regression(langscores,langwordngrams)
        #TODO: singleLangRegressionWithoutVectorizer function.
        #print("Domain features: ", "\n", "******")
        #singleLangRegressionWithoutVectorizer(langdomain,langlabels)
+    sys.stdout = orig_stdout
+    f.close()
 
 def main():
 
@@ -622,14 +640,19 @@ def main():
 
 
     do_single_lang_all_features(czdirpath,"cz", "class")
+    do_single_lang_all_features(czdirpath, "it", "class")
+    do_single_lang_all_features(dedirpath, "de", "class")
 
-    #do_single_lang_all_features(dedirpath, "de", "class")
+    do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
+    do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
+    #-----
+    do_cross_lang_all_features(itdirpath,"it","class", dedirpath, "de")
+    do_cross_lang_all_features(itdirpath,"it","class", czdirpath, "cz")
+    #-----
+    do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
+    do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
 
-    #do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
-
-    #do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
-
-    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
 
 if __name__ == "__main__":
     main()

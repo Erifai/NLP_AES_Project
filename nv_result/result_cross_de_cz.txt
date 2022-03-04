@@ -1,0 +1,88 @@
+Printing cross-corpus classification evaluation results: 
+******* 
+ Setting - Train with:  de  Test with:  cz  ****** 
+
+Features: pos
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.663594470046083
+[[  0   0   0   0   0   0]
+ [  0 124  63   1   0   0]
+ [  0  15 111  39   0   0]
+ [  0   0  28  53   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.6722007641629855
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.45161290322580644
+[[  0   0   0   0   0   0]
+ [  0 149   6  29   4   0]
+ [  0 106   4  40  15   0]
+ [  0  29   1  43   8   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.37393589747221645
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.41705069124423966
+[[  0   0   0   0   0   0]
+ [  0 127   4  43  14   0]
+ [  0  73   6  67  19   0]
+ [  0  16   3  48  14   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.3729428114312319
+Features: dep
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.6428571428571429
+[[  0   0   0   0   0   0]
+ [  0 128  60   0   0   0]
+ [  0  26 100  39   0   0]
+ [  0   4  26  51   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.648458869554682
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.3387096774193548
+[[  0   0   0   0   0   0]
+ [  3 106  40   2  37   0]
+ [  0  58  36   6  65   0]
+ [  0  10   4   5  62   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.38526789103404435
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+0.2350230414746544
+[[  0   0   0   0   0   0]
+ [  3  75  38   3  69   0]
+ [  0  20  27   8 110   0]
+ [  0   1   1   0  79   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+CROSS LANG EVAL DONE. F1score: 
+0.31766636686478317
+Features: domain
+CROSS LANG EVAL
+0.4815668202764977
+[[ 79  94  15   0]
+ [  4  57 103   1]
+ [  0   8  73   0]
+ [  0   0   0   0]]
+0.4865031170981268
+0.22580645161290322
+[[ 16   1 171]
+ [  0   1 164]
+ [  0   0  81]]
+0.133337922740886
+0.30184331797235026
+[[  0   0   0   0   0]
+ [  9  27 137  15   0]
+ [  0   2  59  76  28]
+ [  0   0   5  45  31]
+ [  0   0   0   0   0]]
+0.3077755794834268

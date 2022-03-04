@@ -1,0 +1,593 @@
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0601_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0602_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0603_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0604_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0605_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0606_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0607_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0608_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0609_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0610_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0611_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0612_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0613_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0614_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0615_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0616_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0617_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0618_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0619_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0620_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0621_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0622_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0623_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0624_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0625_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0626_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0627_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0628_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0629_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0630_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0631_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0632_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0633_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0634_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0635_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0636_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0637_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0638_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0639_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0640_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0641_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0642_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0643_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0644_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0645_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0714_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0715_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0716_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0717_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0718_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0719_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0720_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0721_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0722_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0723_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0724_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0725_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0801_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0802_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0803_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0804_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0805_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0806_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0807_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0808_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0809_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0810_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0811_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0812_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0813_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0814_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0815_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0816_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0817_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0818_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0819_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0820_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0821_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0822_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0823_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0824_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0825_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0826_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0827_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0828_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0829_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0901_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0902_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0903_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0904_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0905_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0906_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0907_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0910_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0911_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0912_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0913_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0914_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0915_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0916_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0917_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0918_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0919_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0920_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0921_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0922_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0923_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0924_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0925_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0926_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0927_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0928_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0929_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\0930_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1001_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1002_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1003_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1004_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1005_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1006_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1007_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1008_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1009_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1010_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1014_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1015_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1016_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1017_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1018_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1019_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1020_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1021_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1022_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1023_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1111_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1112_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1113_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1114_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1115_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1116_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\1117_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\9999_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\BER0609003_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\BER0611003_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\BER0611005_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\BER0611006_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\BER0611007_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611005A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611005B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611006A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611006B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611009A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\KYJ0611009B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611001A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611001B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611004B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LIB0611011_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0610002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0610002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0611002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0611002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0611003_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0611004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\LON0611004B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0509001_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0509004_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0611012_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0611013_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0611014_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\MOS0611015_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011008A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011009A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011009B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011013_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011014_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011015_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011016_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011017_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PAR1011018_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111001A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111001B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111002A_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111002B_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111003B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111004B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111005A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111005B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111010_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111011_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111012_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111014_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111015_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111016_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0111018_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112003B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112006A_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112006B_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112007A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112007B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112009A_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112009B_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112012A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0112012B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209001_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209008_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209013_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209024_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209026_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209028_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209031_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209034_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209038_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0209039_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0210001_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0210004_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0210007_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0210008_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411008A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411008B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411009A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411009B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411010A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411010B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411011A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411011B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411012A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411012B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411027_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411028_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411029_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411030_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411031_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411032_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411033_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411034_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411035_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411036_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411037_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411038_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411039_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411041_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411042_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411043_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411044_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411045_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411047_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411051_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411053_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411054_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411055_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411056_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411058_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411059_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411060_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411061_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0411062_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509002_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509007_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509013_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509015_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509017_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509018_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509019_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509020_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509021_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509022_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509024_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509025_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509026_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509027_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509028_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509030_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509031_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509032_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509033_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509034_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509035_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509036_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509037_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509038_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509039_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509040_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509041_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509042_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509043_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509044_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0509045_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510003B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510004B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510010A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510010B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510013A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510013B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510023_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510027_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510029_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510030_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510031_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510032_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510034_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510035_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510036_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510037_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510038_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510039_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510040_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510046_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510047_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510048_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510049_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0510050_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610005A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610005B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610006A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610006B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610007A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610007B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610015_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610016_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610017_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610018_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610019A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610019B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610025_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0610026_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0709008_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710009_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710010_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710011_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710012_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710013_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710014_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710015_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710016_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710017_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710018_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710019_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0710021_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0809009_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0809010_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810001_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810002_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810003_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810004_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810006_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810008_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810009_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810010_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810011_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810012_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0810015_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811010_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811012_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811013_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811014_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811016_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811017_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811019_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA0811020_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109001_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109002_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109003_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109004_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109005_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109006_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109007_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109008_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109023_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109024_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109025_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109026_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109027_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1109028_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110001A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110001B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110002A_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110002B_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110003B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110013_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110014_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110015_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110016_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110017_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110019_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110021_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1110022_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111001A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111001B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111002A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111002B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111003A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111003B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111004A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111004B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111006A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111006B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111008A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111008B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\PHA1111009A_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\ST071122B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\TI071122B_CZ_A2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0209036_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909003_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909004_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909005_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909006_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909007_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909008_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909009_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0909010_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910004_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910005_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910006_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910007_CZ_B1.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910009_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910010_CZ_B2.txt.parsed.txt
+Ignoring this text:  C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed\VAR0910011_CZ_B1.txt.parsed.txt
+Extracted all features: 
+Printing class statistics
+Counter({'A2': 188, 'B1': 165, 'B2': 81})
+With Word ngrams: 
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.54545455 0.61363636 0.72727273 0.68181818 0.72093023 0.76744186
+ 0.74418605 0.72093023 0.79069767 0.8372093 ]
+0.7149577167019027 0.7047227972816605
+[[  0   0   0   0   0   0]
+ [  0 174  14   0   0   0]
+ [  0  44  94  27   0   0]
+ [  0   1  38  42   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.59090909 0.56818182 0.65909091 0.56818182 0.65116279 0.74418605
+ 0.74418605 0.69767442 0.79069767 0.8372093 ]
+0.6851479915433404 0.6819219752956087
+[[  0   0   0   0   0   0]
+ [  0 153  34   1   0   0]
+ [  0  45  94  26   0   0]
+ [  0   1  30  50   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+1161
+1161
+[0.56818182 0.70454545 0.70454545 0.68181818 0.69767442 0.69767442
+ 0.79069767 0.74418605 0.81395349 0.86046512]
+0.7263742071881605 0.7222937971948927
+[[  0   0   0   0   0   0]
+ [  0 165  22   1   0   0]
+ [  0  37 100  28   0   0]
+ [  0   0  31  50   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+With POS ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.61363636 0.56818182 0.68181818 0.65909091 0.6744186  0.6744186
+ 0.8372093  0.72093023 0.8372093  0.81395349]
+0.7080866807610994 0.702562014223004
+[[  0   0   0   0   0   0]
+ [  0 160  27   1   0   0]
+ [  0  36 110  19   0   0]
+ [  0   1  43  37   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.47727273 0.5        0.61363636 0.54545455 0.65116279 0.62790698
+ 0.58139535 0.65116279 0.62790698 0.69767442]
+0.5973572938689219 0.5907221810447617
+[[  0   0   0   0   0   0]
+ [  0 144  42   2   0   0]
+ [  0  61  71  33   0   0]
+ [  0   3  34  44   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+3975
+3975
+[0.52272727 0.52272727 0.59090909 0.59090909 0.65116279 0.58139535
+ 0.6744186  0.65116279 0.6744186  0.6744186 ]
+0.6134249471458775 0.6080811690633297
+[[  0   0   0   0   0   0]
+ [  0 144  39   5   0   0]
+ [  0  56  75  34   0   0]
+ [  0   3  31  47   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+Dep ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.59090909 0.59090909 0.75       0.63636364 0.65116279 0.72093023
+ 0.79069767 0.69767442 0.8372093  0.88372093]
+0.7149577167019028 0.7097116499484751
+[[  0   0   0   0   0   0]
+ [  0 160  28   0   0   0]
+ [  0  35 112  18   0   0]
+ [  0   2  41  38   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.63636364 0.43181818 0.56818182 0.61363636 0.62790698 0.69767442
+ 0.58139535 0.6744186  0.62790698 0.72093023]
+0.6180232558139535 0.614778241056687
+[[  0   0   0   0   0   0]
+ [  0 139  48   1   0   0]
+ [  0  59  80  26   0   0]
+ [  0   4  28  49   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2943
+2943
+[0.68181818 0.52272727 0.65909091 0.59090909 0.55813953 0.72093023
+ 0.60465116 0.69767442 0.69767442 0.79069767]
+0.652431289640592 0.6493287856707578
+[[  0   0   0   0   0   0]
+ [  0 145  41   2   0   0]
+ [  0  48  84  33   0   0]
+ [  0   2  25  54   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+Domain features:  
+ ******
+RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)
+[0.56818182 0.68181818 0.59090909 0.52272727 0.62790698 0.76744186
+ 0.74418605 0.79069767 0.72093023 0.76744186]
+0.6782241014799153
+[[158  30   0]
+ [ 46  96  23]
+ [  1  40  40]]
+0.6465624084452063
+LinearSVC(class_weight='balanced', random_state=1234)
+[0.38636364 0.38636364 0.56818182 0.43181818 0.60465116 0.62790698
+ 0.79069767 0.69767442 0.6744186  0.81395349]
+0.5982029598308668
+[[129  58   1]
+ [ 37 125   3]
+ [ 16  60   5]]
+0.47371783548254137
+LogisticRegression(class_weight='balanced', random_state=1234)
+[0.54545455 0.65909091 0.68181818 0.63636364 0.58139535 0.69767442
+ 0.58139535 0.6744186  0.55813953 0.69767442]
+0.6313424947145878
+[[162  24   2]
+ [ 46  57  62]
+ [  1  25  55]]
+0.5955950378143581
+Combined feature rep: wordngrams + domain
+Acc:  0.7058139534883721
+F1:  0.6898243362073471
+Combined feature rep: posngrams + domain
+Acc:  0.6894820295983086
+F1:  0.6838699801102246
+Combined feature rep: depngrams + domain
+Acc:  0.7056553911205073
+F1:  0.7002950966084607
