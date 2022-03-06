@@ -467,9 +467,11 @@ Goal: combine all languages data into one big model
 setting options: pos, dep, domain
 labelascat = true, false (to indicate whether to add label as a categorical feature)
 """
+
+
 def do_mega_multilingual_model_all_features(lang1path,lang1,lang2path,lang2,lang3path,lang3,modelas, setting,labelascat):
    orig_stdout = sys.stdout
-   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multi_'+lang1+'_'+lang2+'_'+lang3+'.txt', 'w')
+   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multi_'+lang1+'_'+lang2+'_'+lang3+'_'+setting+'features_label_cat_'+str(labelascat)+'.txt', 'w')
    sys.stdout = f
    print("Doing: take all data as if it belongs to one large dataset, and do classification")   
    if not setting == "domain":
@@ -639,20 +641,30 @@ def main():
     czdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed"
 
 
-    do_single_lang_all_features(czdirpath,"cz", "class")
-    do_single_lang_all_features(czdirpath, "it", "class")
-    do_single_lang_all_features(dedirpath, "de", "class")
+    #do_single_lang_all_features(czdirpath,"cz", "class")
+    #do_single_lang_all_features(czdirpath, "it", "class")
+    #do_single_lang_all_features(dedirpath, "de", "class")
 
-    do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
-    do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
+    #do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
+    #do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
     #-----
-    do_cross_lang_all_features(itdirpath,"it","class", dedirpath, "de")
-    do_cross_lang_all_features(itdirpath,"it","class", czdirpath, "cz")
+    #do_cross_lang_all_features(itdirpath,"it","class", dedirpath, "de")
+    #do_cross_lang_all_features(itdirpath,"it","class", czdirpath, "cz")
     #-----
-    do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
-    do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
+    #do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
+    #do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
 
     do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", True)
+    #---------------
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", False)
+
+
 
 if __name__ == "__main__":
     main()

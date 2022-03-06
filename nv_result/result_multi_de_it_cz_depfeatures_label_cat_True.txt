@@ -1,0 +1,43 @@
+Doing: take all data as if it belongs to one large dataset, and do classification
+Mega classification for:  dep  features
+2267 2267 2267 2873
+Distribution of labels: 
+Counter({'B1': 890, 'A2': 875, 'B2': 374, 'A1': 86, 'C1': 42})
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13223
+13226
+[0.47577093 0.68281938 0.57268722 0.59911894 0.88546256 0.89867841
+ 0.79735683 0.63274336 0.54867257 0.68141593]
+0.6774726131534834 0.662057662891353
+[[ 19  66   1   0   0   0]
+ [ 24 731 117   3   0   0]
+ [  0 274 499 117   0   0]
+ [  0  11  76 287   0   0]
+ [  0   0   2  40   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13223
+13226
+[0.38325991 0.47136564 0.49779736 0.49339207 0.73568282 0.72687225
+ 0.66519824 0.60619469 0.51327434 0.53982301]
+0.5632860317336557 0.5557366962703822
+[[ 15  68   3   0   0   0]
+ [ 59 607 187  22   0   0]
+ [  5 325 432 127   1   0]
+ [  0  18 127 221   8   0]
+ [  0   0   9  31   2   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13223
+13226
+[0.35682819 0.43171806 0.50220264 0.55947137 0.77092511 0.75330396
+ 0.71806167 0.62389381 0.51769912 0.55309735]
+0.5787201278702584 0.5772363229626557
+[[ 25  59   2   0   0   0]
+ [ 81 605 170  18   1   0]
+ [  5 287 444 152   2   0]
+ [  0   6 117 230  21   0]
+ [  0   0   3  31   8   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG

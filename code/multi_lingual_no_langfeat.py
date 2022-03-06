@@ -22,7 +22,7 @@ _white_spaces = re.compile(r"\s\s+")
 maxlen = 2000
 embedding_dims = 16
 batch_size = 128
-nb_epoch = 8
+nb_epoch = 100 # 8 (39%)
 nb_filter = 50
 filter_length = 5
 pool_length = 5
@@ -40,11 +40,12 @@ def read_data():
     lg_labels = []
     documents = []
     for data_file in glob.iglob(sys.argv[1]+"/*/*"):
-        lang_label = data_file.split("/")[-2]
+        #lang_label = data_file.split("/")[-2]
+        lang_label = data_file.split("/")[-1].split("\\")[-2]
 
         if "RemovedFiles" in data_file: continue
         if "parsed" in data_file: continue
-        doc = open(data_file, "r").read().strip()
+        doc = open(data_file,encoding='utf-8',mode='r').read().strip()
         wrds = doc.split(" ")
 
         label = data_file.split("/")[-1].split(".txt")[0].split("_")[-1]
@@ -118,7 +119,12 @@ def transform(D, vocab, minfreq, tokenizer="char"):
         X.append(x)
     return X
 
-    
+
+orig_stdout = sys.stdout
+f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multilingual_without_langfeat.txt', 'w')
+sys.stdout = f
+
+
 print("Reading the training set... ", end="")
 sys.stdout.flush()
 pt = time.time()
@@ -236,3 +242,5 @@ print("\nF1-scores", cv_f1,sep="\n")
 print("Average F1 scores", np.mean(cv_f1))
 print(confusion_matrix(all_golds,all_preds))
 
+sys.stdout = orig_stdout
+f.close()

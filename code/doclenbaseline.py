@@ -8,6 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import cross_val_score,cross_val_predict,StratifiedKFold 
 from sklearn.metrics import f1_score,classification_report,accuracy_score,confusion_matrix, mean_absolute_error
 from sklearn.svm import LinearSVC
+import sys
 
 seed = 1234
 
@@ -60,9 +61,13 @@ def crossLangClassificationWithoutVectorizer(train_vector, train_labels, test_ve
 
 
 def main():
-    itdirpath = "../Datasets/IT-Parsed"
-    dedirpath = "../Datasets//DE-Parsed"
-    czdirpath = "../Datasets/CZ-Parsed"
+    orig_stdout = sys.stdout
+    f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_baseline.txt', 'w')
+    sys.stdout = f
+    itdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/IT-Parsed"
+    dedirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/DE-Parsed"
+    czdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed"
+
     print("************DE baseline:****************")
     defeats,delabels = getfeatures(dedirpath)
     singleLangClassificationWithoutVectorizer(defeats,delabels)
@@ -89,6 +94,8 @@ def main():
     bigcats.extend(czlabels)
     print("****Multilingual classification baseline*************")
     singleLangClassificationWithoutVectorizer(bigfeats,bigcats)
+    sys.stdout = orig_stdout
+    f.close()
 
     
     

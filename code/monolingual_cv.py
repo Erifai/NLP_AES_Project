@@ -38,7 +38,7 @@ def read_data():
     labels = []
     documents = []
     for data_file in glob.iglob(sys.argv[1]+"/*"):
-        doc = open(data_file, "r").read().strip()
+        doc = open(data_file,encoding='utf-8',mode='r').read().strip()
         wrds = doc.split(" ")
         label = data_file.split("/")[-1].split(".txt")[0].split("_")[-1]
         if label == "EMPTY": continue
@@ -109,7 +109,12 @@ def transform(D, vocab, minfreq, tokenizer="char"):
                 continue
         X.append(x)
     return X
-    
+
+
+lang = sys.argv[2]
+orig_stdout = sys.stdout
+f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_monolingual_word_embed_'+lang+'.txt', 'w')
+sys.stdout = f
 print("Reading the training set... ", end="")
 sys.stdout.flush()
 pt = time.time()
@@ -171,9 +176,13 @@ for train, test in k_fold.split(x_word_train, y_labels):
 
     model.fit(x_word_train[train], y_train[train],
               batch_size=batch_size,
-              epochs=nb_epoch)
+              epochs=100) #nb epoch était a 10(58%) je l'ai augmenter à 20 (67%) a 30 (70%) à 50(73%) à 100(76%) (à executer avec IT et pas IT-PARSED )
+                            # pour DE 100 epoch (60%)
+                            # pour CZ 100 epoch (50%)
 
-    y_pred = model.predict_classes(x_word_train[test])
+    #y_pred = model.predict_classes(x_word_train[test]) ----- #j'ai remplacé cette ligne par les 2 ligne en dessous
+    y_pred = model.predict(x_word_train[test])
+    y_pred = np.argmax(y_pred , axis=1)
     #print(y_pred, np.array(y_labels)[test], sep="\n")
 
     pred_labels = [unique_labels[x] for x in y_pred]
@@ -187,3 +196,6 @@ for train, test in k_fold.split(x_word_train, y_labels):
 print("\nF1-scores", cv_f1,sep="\n")
 print("Average F1 scores", np.mean(cv_f1))
 print(confusion_matrix(all_gold,all_preds))
+
+sys.stdout = orig_stdout
+f.close()
