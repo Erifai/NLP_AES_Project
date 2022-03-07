@@ -113,7 +113,7 @@ def transform(D, vocab, minfreq, tokenizer="char"):
 
 lang = sys.argv[2]
 orig_stdout = sys.stdout
-f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_monolingual_word_embed_'+lang+'.txt', 'w')
+f = open('./docker_results/result_monolingual_word_embed_'+lang+'.txt', 'w')
 sys.stdout = f
 print("Reading the training set... ", end="")
 sys.stdout.flush()

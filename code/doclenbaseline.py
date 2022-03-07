@@ -62,11 +62,11 @@ def crossLangClassificationWithoutVectorizer(train_vector, train_labels, test_ve
 
 def main():
     orig_stdout = sys.stdout
-    f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_baseline.txt', 'w')
+    f = open('./docker_results/result_baseline.txt', 'w')
     sys.stdout = f
-    itdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/IT-Parsed"
-    dedirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/DE-Parsed"
-    czdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed"
+    itdirpath = "./Datasets/IT-Parsed"
+    dedirpath = "./Datasets/DE-Parsed"
+    czdirpath = "./Datasets/CZ-Parsed"
 
     print("************DE baseline:****************")
     defeats,delabels = getfeatures(dedirpath)

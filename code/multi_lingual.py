@@ -125,7 +125,7 @@ def transform(D, vocab, minfreq, tokenizer="char"):
     return X
 
 orig_stdout = sys.stdout
-f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multilingual_with_langfeat.txt', 'w')
+f = open('./docker_results/result_multilingual_with_langfeat.txt', 'w')
 sys.stdout = f
 
 

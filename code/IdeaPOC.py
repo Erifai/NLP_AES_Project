@@ -471,7 +471,7 @@ labelascat = true, false (to indicate whether to add label as a categorical feat
 
 def do_mega_multilingual_model_all_features(lang1path,lang1,lang2path,lang2,lang3path,lang3,modelas, setting,labelascat):
    orig_stdout = sys.stdout
-   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_multi_'+lang1+'_'+lang2+'_'+lang3+'_'+setting+'features_label_cat_'+str(labelascat)+'.txt', 'w')
+   f = open('./docker_results/result_multi_'+lang1+'_'+lang2+'_'+lang3+'_'+setting+'features_label_cat_'+str(labelascat)+'.txt', 'w')
    sys.stdout = f
    print("Doing: take all data as if it belongs to one large dataset, and do classification")   
    if not setting == "domain":
@@ -520,7 +520,7 @@ modelas: "class" for classification, "regr" for regression
 def do_cross_lang_all_features(sourcelangdirpath,sourcelang,modelas, targetlangdirpath, targetlang):
 
    orig_stdout = sys.stdout
-   f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_cross_'+sourcelang+'_'+targetlang+'.txt', 'w')
+   f = open('./docker_results/result_cross_'+sourcelang+'_'+targetlang+'.txt', 'w')
    sys.stdout = f
    #Read source language data
    sourcelangfiles,sourcelangposngrams = getLangData(sourcelangdirpath, "pos")
@@ -568,7 +568,7 @@ modelas: "class" for classification, "regr" for regression
 """
 def do_single_lang_all_features(langdirpath,lang,modelas):
     orig_stdout = sys.stdout
-    f = open('C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/nv_result/result_single_'+lang+'.txt', 'w')
+    f = open('./docker_results/result_single_'+lang+'.txt', 'w')
     sys.stdout = f
 
     langfiles,langwordngrams = getLangData(langdirpath, "word")
@@ -634,11 +634,11 @@ def do_single_lang_all_features(langdirpath,lang,modelas):
 def main():
 
     #itdirpath = "/home/bangaru/CrossLingualScoring/Datasets/IT-Parsed"
-    itdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/IT-Parsed"
+    itdirpath = "./Datasets/IT-Parsed"
     #dedirpath = "/home/bangaru/CrossLingualScoring/Datasets/DE-Parsed"
-    dedirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/DE-Parsed"
+    dedirpath = "./Datasets/DE-Parsed"
     #czdirpath = "/home/bangaru/CrossLingualScoring/Datasets/CZ-Parsed"
-    czdirpath = "C:/Users/moham/Documents/GitHub/UniversalCEFRScoring/Datasets/CZ-Parsed"
+    czdirpath = "./Datasets/CZ-Parsed"
 
 
     #do_single_lang_all_features(czdirpath,"cz", "class")
@@ -654,15 +654,15 @@ def main():
     #do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
     #do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
 
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", True)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", True)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", True)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", True)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", True)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", True)
     #---------------
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", False)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", False)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", False)
-    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", False)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", False)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", False)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", False)
+    #do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", False)
 
 
 

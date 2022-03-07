@@ -1,0 +1,51 @@
+Tous les résultats seront directement enregistrés dans des fichiers textes (au lieu des les affichier sur le terminal) qui seront sauvegardé dans 
+le dossier "docker_results"
+
+
+1ére partie : fichier IdeaPOC.py : -------------------------------------------------------------------------------------
+
+résultats de single,multi et cross en utilisant les différents modèles (RF,LR,SVM,...)
+Vous avez qu'a décommenter les appels des fct (en bas du fichier IdeaPOC) puis le lancer sur Pycharm ou bien via votre terminal
+
+
+
+
+2éme partie : fichier doclenbaseline.py : -------------------------------------------------------------------------------------
+
+Pour génerer les résultats de baseline pour les 3 méthodes de classification il suffit de lancer le fichier doclenbaseline.py 
+et vous trouverez les résultats dans le dossier docker_results
+
+
+
+
+3éme partie : fichier monolingual_cv.py  : -------------------------------------------------------------------------------------
+
+lancez ces 3 commandes depuis le terminal (cette partie concerne le feature word embedding de la méthode monolingual)
+
+python ./code/monolingual_cv.py "./Datasets/CZ" "de"
+
+python ./code/monolingual_cv.py "./Datasets/CZ" "it"
+
+python ./code/monolingual_cv.py "./Datasets/CZ" "cz"
+
+
+
+
+4éme partie : fichier multi_lingual_no_langfeat.py  : -------------------------------------------------------------------------------------
+
+python ./code/multi_lingual_no_langfeat.py "./Datasets"
+
+
+
+
+5éme partie : fichier multi_lingual.py  : -------------------------------------------------------------------------------------
+
+python ./code/multi_lingual.py "./Datasets"
+
+
+
+
+
+
+
+
