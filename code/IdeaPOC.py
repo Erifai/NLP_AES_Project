@@ -642,27 +642,27 @@ def main():
 
 
     do_single_lang_all_features(czdirpath,"cz", "class")
-    # do_single_lang_all_features(czdirpath, "it", "class")
-    # do_single_lang_all_features(dedirpath, "de", "class")
+    do_single_lang_all_features(czdirpath, "it", "class")
+    do_single_lang_all_features(dedirpath, "de", "class")
 
-    # do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
-    # do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
+    do_cross_lang_all_features(dedirpath,"de","class", itdirpath, "it")
+    do_cross_lang_all_features(dedirpath,"de","class", czdirpath, "cz")
     # #-----
-    # do_cross_lang_all_features(itdirpath,"it","class", dedirpath, "de")
-    # do_cross_lang_all_features(itdirpath,"it","class", czdirpath, "cz")
-    # #-----
-    # do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
-    # do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
+    do_cross_lang_all_features(itdirpath,"it","class", dedirpath, "de")
+    do_cross_lang_all_features(itdirpath,"it","class", czdirpath, "cz")
+    #-----
+    do_cross_lang_all_features(czdirpath,"cz","class", itdirpath, "it")
+    do_cross_lang_all_features(czdirpath,"cz","class", dedirpath, "de")
 
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", True)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", True)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", True)
-    # #---------------
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", False)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", False)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", False)
-    # do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", True)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", True)
+    #---------------
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "pos", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "word", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "dep", False)
+    do_mega_multilingual_model_all_features(dedirpath,"de",itdirpath,"it",czdirpath,"cz","class", "domain", False)
 
 
 
