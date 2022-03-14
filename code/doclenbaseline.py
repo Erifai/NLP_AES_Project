@@ -36,8 +36,8 @@ def getfeatures(dirpath):
     return doclenfeaturelist,cats
 
 def singleLangClassificationWithoutVectorizer(train_vector,train_labels): #test_vector,test_labels):
-    k_fold = StratifiedKFold(10,random_state=seed)
-    classifiers = [RandomForestClassifier(class_weight="balanced",n_estimators=300,random_state=seed), LinearSVC(class_weight="balanced",random_state=seed), LogisticRegression(class_weight="balanced",random_state=seed)] #Add more later
+    k_fold = StratifiedKFold(10)
+    classifiers = [RandomForestClassifier(class_weight="balanced",n_estimators=300), LinearSVC(class_weight="balanced"), LogisticRegression(class_weight="balanced")] #Add more later
     #classifiers = [MLPClassifier(max_iter=500)]
     #RandomForestClassifer(), GradientBoostClassifier()
     #Not useful: SVC with kernels - poly, sigmoid, rbf.
@@ -51,7 +51,7 @@ def singleLangClassificationWithoutVectorizer(train_vector,train_labels): #test_
         print(f1_score(train_labels,predicted,average='macro'))
 
 def crossLangClassificationWithoutVectorizer(train_vector, train_labels, test_vector, test_labels):
-    classifiers = [RandomForestClassifier(class_weight="balanced",n_estimators=300,random_state=seed), LinearSVC(class_weight="balanced",random_state=seed), LogisticRegression(class_weight="balanced",random_state=seed)]
+    classifiers = [RandomForestClassifier(class_weight="balanced",n_estimators=300,), LinearSVC(class_weight="balanced",), LogisticRegression(class_weight="balanced",)]
     for classifier in classifiers:
         classifier.fit(train_vector,train_labels)
         predicted = classifier.predict(test_vector)
@@ -62,11 +62,11 @@ def crossLangClassificationWithoutVectorizer(train_vector, train_labels, test_ve
 
 def main():
     orig_stdout = sys.stdout
-    f = open('./docker_results/result_baseline.txt', 'w')
+    f = open('/nlp_project/docker_results/result_baseline.txt', 'w+')
     sys.stdout = f
-    itdirpath = "./Datasets/IT-Parsed"
-    dedirpath = "./Datasets/DE-Parsed"
-    czdirpath = "./Datasets/CZ-Parsed"
+    itdirpath = "/nlp_project/Datasets/IT-Parsed"
+    dedirpath = "/nlp_project/Datasets/DE-Parsed"
+    czdirpath = "/nlp_project/Datasets/CZ-Parsed"
 
     print("************DE baseline:****************")
     defeats,delabels = getfeatures(dedirpath)

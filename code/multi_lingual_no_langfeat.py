@@ -121,7 +121,7 @@ def transform(D, vocab, minfreq, tokenizer="char"):
 
 
 orig_stdout = sys.stdout
-f = open('./docker_results/result_multilingual_without_langfeat.txt', 'w')
+f = open('/nlp_project/docker_results/result_multilingual_without_langfeat.txt', 'w')
 sys.stdout = f
 
 
@@ -167,7 +167,7 @@ lng_train = np_utils.to_categorical(np.array(y_lang_labels), len(lang_labels))
 print(time.time() - pt)
 
 cv_accs, cv_f1 = [], []
-k_fold = StratifiedKFold(10,random_state=seed)
+k_fold = StratifiedKFold(10)
 n_iter = 1
 all_golds = []
 all_preds = []

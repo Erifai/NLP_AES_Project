@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+xgboost
+scipy
+language_tool_python
+keras
+tensorflow
+gensim

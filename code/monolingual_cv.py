@@ -113,7 +113,7 @@ def transform(D, vocab, minfreq, tokenizer="char"):
 
 lang = sys.argv[2]
 orig_stdout = sys.stdout
-f = open('./docker_results/result_monolingual_word_embed_'+lang+'.txt', 'w')
+f = open('/nlp_project/docker_results/result_monolingual_word_embed_'+lang+'.txt', 'w')
 sys.stdout = f
 print("Reading the training set... ", end="")
 sys.stdout.flush()
@@ -155,7 +155,7 @@ print('y_train shape:', y_train.shape)
 print(time.time() - pt)
 
 cv_accs, cv_f1 = [], []
-k_fold = StratifiedKFold(10, random_state=seed)
+k_fold = StratifiedKFold(10)
 all_gold = []
 all_preds = []
 for train, test in k_fold.split(x_word_train, y_labels):
